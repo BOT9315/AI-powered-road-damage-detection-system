@@ -3,6 +3,4 @@ asdfghfgh
 dfg
 fgh
 fghj
-ghjkl
-
-d
+gh
