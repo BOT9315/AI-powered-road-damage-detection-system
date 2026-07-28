@@ -8,7 +8,6 @@ sd
 sdfg
 sdfgw
 erty
-erty
 fgrtr
 sd
 fg
