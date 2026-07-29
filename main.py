@@ -7,10 +7,7 @@ fg;'bnm,'
 
 
 'd
-sd
-sds
-
-d
+s
 sd
 sdd
 sdsd
