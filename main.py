@@ -4,7 +4,5 @@ ghjkl;'
 fg;'bnm,'
 +9
 
-sd
-
 s
 ds
