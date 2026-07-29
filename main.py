@@ -3,8 +3,7 @@ dfghjklxcvbnmwertyuio56789
 ghjkl;'
 fg;'bnm,'
 +98
-123456790-\c
-
+123456
 
 'd
 s
