@@ -5,8 +5,7 @@ fg;'bnm,'
 +98
 123456790-\c
 
-s
-dsd
+
 'd
 sd
 sds
