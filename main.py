@@ -6,4 +6,3 @@ fdgh
 hg
 hgj
 d
-gfhg
