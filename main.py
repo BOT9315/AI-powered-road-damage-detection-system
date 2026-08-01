@@ -3,8 +3,7 @@ fgfdgf
 f
 fghg
 fdgh
-fdg
-h
+fd
 hg
 dgf
 hgj
