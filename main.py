@@ -6,4 +6,3 @@ fghjkl;'
 
 jhjkl;'
 ghjkl;'
-hjkl;'
