@@ -6,4 +6,4 @@ p[vbnm,m,./
 ';lkjkl
 ';l 
 ,'; ,
-. ..'n;blbnm
+. ..'n
