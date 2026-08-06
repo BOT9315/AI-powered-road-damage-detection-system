@@ -1,5 +1,4 @@
 edrfgh
 l;fghjkl;''dfgkhj;kl
 ooio
-p[vbnm,m,./
-,'
+p[vbnm,m,.
