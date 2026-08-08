@@ -3,8 +3,6 @@ rtd
 sad
 ds
 d
-rew
-r
 r
 er
 er
