@@ -5,4 +5,4 @@ hjkl;'
 hhjkl;'
 hjkl;'
 hjkl;'
-jjkl;'
+jjk
