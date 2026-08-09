@@ -4,4 +4,3 @@ hhjkl;'
 hj
 hhjkl;'
 hjkpaka
-jjk
