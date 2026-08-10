@@ -1,9 +1,5 @@
 tyyuiop
-fghjkl;'j./
-
-ew
-3
-1
+fghjkl;'j.
 
 44
 
