@@ -1,4 +1,2 @@
 tyyuiop
 fghjkl;'j.
-
-
