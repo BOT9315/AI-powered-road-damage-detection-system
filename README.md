@@ -2,8 +2,7 @@ tyyuiop
 fghjkl;'j./
 
 fd
-f
-f
+
 
 ew
 
