@@ -14,7 +14,7 @@ Thank you for considering contributing to the **Unique Project Ideas** repositor
 - Clone the forked repository to your local machine using the following command:
 
 ```bash
-$ git clone https://github.com/king04aman/unique-project-ideas.git
+$ git clone https://github.com/BOT9315/unique-project-ideas.git
 ```
 
 ### 3. Create a Branch
